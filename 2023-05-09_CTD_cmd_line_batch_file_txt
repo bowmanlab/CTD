@@ -1,0 +1,12 @@
+c:
+cd \
+cd Program Files
+cd Sea-Bird
+cd SeasaveV7
+[make sure path is to SeasaveV7\seasave.exe, maybe just copy to dropbox folder?]
+:repeat_forever
+start /w seasave.exe /autostart=[programsetupfilename.xmlcon].psa /u /autostop=1440
+goto repeat_forever
+
+
+
