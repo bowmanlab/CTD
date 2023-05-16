@@ -10,8 +10,5 @@ start /w /D "C:\Program Files (x86)\Sea-Bird\SeasaveV7" Seasave.exe /autostart=C
 
 ::Convert any .hex format files according to the calibration data contained in the instrument calibration file, pointed to from the *DatCnv.psa file.
 ::This will execute in a separate terminal and the script will wait to proceed until execution is complete.
-start /w /D "C:\Program Files (x86)\Sea-Bird\SBEDataProcessing-Win32" DatCnvW.exe /pC:\Users\jeff\Documents\bowman_lab\bowman_lab_github\CTD\SEO_CTD_DatCnv.psa /iC:\Users\jeff\Downloads\*.hex /s
+start /w /D "C:\Program Files (x86)\Sea-Bird\SBEDataProcessing-Win32" DatCnvW.exe /pC:\Users\bowman-lab\Desktop\CTD\SEO_CTD_DatCnv.psa /iC:\Users\bowman-lab\Dropbox\CTD_Data_v1\*.hex /s
 goto repeat_forever
-
-
-
