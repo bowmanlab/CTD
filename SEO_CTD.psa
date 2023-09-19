@@ -71,7 +71,7 @@
       </PotentialTempAnomaly>
     </MiscellaneousCalcData>
     <ConfigurationFilePath value="C:\Users\bowman-lab\Desktop\2023-05-03_CTD_calibration_settings.xmlcon" />
-    <DataFilePath value="C:\Users\bowman-lab\Dropbox\CTD_Data_v1\20230511_test.hex" />
+    <DataFilePath value="C:\Users\bowman-lab\Desktop\CTD\CTD_Data_v1\20230612_restart.hex" />
     <WaterSamplerConfiguration Type="0" Port="1" NumberOfWaterBottles="12" FiringSequence="0" EnableRemoteFiring="0" BeepUsesInternalSpeakers="0" GO1016ArmOffset="0" >
       <PositionsForTableDrivenFiring >
         <TableEntry BottleNumber="0" Position="1" />
@@ -155,8 +155,8 @@
     <NMEAConfiguration AppendToEveryScan="0" AddToNavFileWhenCtrlF7IsPressed="0" />
     <TimeoutParameters SecondsAtStartup="180" SecondsBetweenScans="180" />
     <SeasaveAcqCommunications DataPort="49163" StatusPort="49165" CommandPort="49164" />
-    <MainWindowPosition left="160" top="161" right="1605" bottom="998" />
-    <SetupFilePath value="C:\Users\bowman-lab\Desktop\2023-05-03_CTD_seasave_base.psa" />
+    <MainWindowPosition left="139" top="60" right="1584" bottom="674" />
+    <SetupFilePath value="C:\Users\bowman-lab\Desktop\CTD\SEO_CTD.psa" />
   </Settings>
   <Clients >
     <DisplaySettings Size="5" >
@@ -204,7 +204,7 @@
             <showCmd value="1" />
             <ptMinPosition x="-1" y="-1" />
             <ptMaxPosition x="-1" y="-1" />
-            <rcNormalPosition left="475" top="243" right="1034" bottom="748" />
+            <rcNormalPosition left="454" top="142" right="1013" bottom="647" />
           </WindowPlacement>
           <Axes >
             <Axis index="0" >
@@ -301,7 +301,7 @@
               <DowncastLineColor value="0" />
             </Axis>
           </Axes>
-          <WindowRectangle left="475" top="243" right="1034" bottom="748" />
+          <WindowRectangle left="454" top="142" right="1013" bottom="647" />
           <GraphicsOutputOptions >
             <PrintSizeFrom value="0" />
             <PrintOptionsView >
@@ -473,14 +473,14 @@
               <Fore value="0" />
               <Back value="16744448" />
             </SelCalcRow>
-            <Position left="166" top="243" right="491" bottom="478" />
+            <Position left="145" top="142" right="462" bottom="372" />
             <WindowPlacement >
               <length value="44" />
               <flags value="0" />
               <showCmd value="1" />
               <ptMinPosition x="-1" y="-1" />
               <ptMaxPosition x="-1" y="-1" />
-              <rcNormalPosition left="166" top="243" right="483" bottom="473" />
+              <rcNormalPosition left="145" top="142" right="462" bottom="372" />
             </WindowPlacement>
             <SecBetweenUpdate value="1.000000" />
             <PixelX value="6" />
@@ -543,14 +543,14 @@
               <Back value="8421376" />
               <ColumnWidth value="72" />
             </SelCalcRow>
-            <Position left="166" top="468" right="471" bottom="780" />
+            <Position left="145" top="367" right="454" bottom="667" />
             <WindowPlacement >
               <length value="44" />
               <flags value="0" />
               <showCmd value="1" />
               <ptMinPosition x="-1" y="-1" />
               <ptMaxPosition x="-1" y="-1" />
-              <rcNormalPosition left="166" top="468" right="475" bottom="768" />
+              <rcNormalPosition left="145" top="367" right="454" bottom="667" />
             </WindowPlacement>
             <SecBetweenUpdate value="1.000000" />
             <PixelX value="6" />
@@ -607,7 +607,7 @@
             <showCmd value="1" />
             <ptMinPosition x="-1" y="-1" />
             <ptMaxPosition x="-1" y="-1" />
-            <rcNormalPosition left="1021" top="243" right="1593" bottom="765" />
+            <rcNormalPosition left="1000" top="142" right="1572" bottom="664" />
           </WindowPlacement>
           <Axes >
             <Axis index="0" >
@@ -711,7 +711,7 @@
               <DowncastLineColor value="0" />
             </Axis>
           </Axes>
-          <WindowRectangle left="1021" top="243" right="1593" bottom="765" />
+          <WindowRectangle left="1000" top="142" right="1572" bottom="664" />
           <GraphicsOutputOptions >
             <PrintSizeFrom value="0" />
             <PrintOptionsView >
@@ -911,14 +911,14 @@
               <Back value="16777215" />
               <ColumnWidth value="72" />
             </SelCalcRow>
-            <Position left="209" top="802" right="1538" bottom="1155" />
+            <Position left="462" top="297" right="1516" bottom="650" />
             <WindowPlacement >
               <length value="44" />
               <flags value="0" />
               <showCmd value="1" />
-              <ptMinPosition x="-1" y="-1" />
+              <ptMinPosition x="0" y="974" />
               <ptMaxPosition x="-1" y="-1" />
-              <rcNormalPosition left="209" top="802" right="1538" bottom="1155" />
+              <rcNormalPosition left="462" top="297" right="1516" bottom="650" />
             </WindowPlacement>
             <SecBetweenUpdate value="1.000000" />
             <PixelX value="6" />
@@ -1140,7 +1140,7 @@
         </ArrayOfVariables>
       </WindowsSocketOutputData>
       <SharedFileOutputData >
-        <File value="C:\Users\bowman-lab\Dropbox\CTD_Data_v1\20230503_test.txt" />
+        <File value="C:\Users\bowman-lab\F\CTD_Data_v1\20230503_test.txt" />
         <EnableSharedFileOutput value="0" />
         <FormatXML value="0" />
         <SecondsBetweenUpdates value="0.000000" />
