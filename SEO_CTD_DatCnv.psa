@@ -2,13 +2,13 @@
 <Data_Conversion >
   <Version value="7.26.7.129" />
   <ServerName value="Data Conversion" />
-  <InstrumentPath value="C:\Users\bowman-lab\Desktop\2023-05-03_CTD_calibration_settings.xmlcon" />
+  <InstrumentPath value="C:\Users\bowman-lab\Desktop\CTD\20250131_CTD_calibration_settings.xmlcon" />
   <InstrumentMatch value="0" />
-  <InputDir value="C:\Users\bowman-lab\Dropbox\CTD_Data_v1" />
+  <InputDir value="C:\Users\bowman-lab\Desktop\CTD\CTD_Data_temp" />
   <InputFileArray size="1" GrowBy="-1" >
     <ArrayItem index="0" value="20230511_160405.hex" />
   </InputFileArray>
-  <OutputDir value="C:\Users\bowman-lab\Dropbox\CTD_Data_v1" />
+  <OutputDir value="C:\Users\bowman-lab\Dropbox\CTD_Data_v2" />
   <NameAppend value="" />
   <OutputFile value="" />
   <LastProcessed value="0" />

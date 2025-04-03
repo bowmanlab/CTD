@@ -70,8 +70,8 @@
         <A1Multiplier value="0" />
       </PotentialTempAnomaly>
     </MiscellaneousCalcData>
-    <ConfigurationFilePath value="C:\Users\bowman-lab\Desktop\2023-05-03_CTD_calibration_settings.xmlcon" />
-    <DataFilePath value="C:\Users\bowman-lab\Desktop\CTD\CTD_Data_v1\20230612_restart.hex" />
+    <ConfigurationFilePath value="C:\Users\bowman-lab\Desktop\CTD\20250131_CTD_calibration_settings.xmlcon" />
+    <DataFilePath value="C:\Users\bowman-lab\Desktop\CTD\CTD_Data_temp\20250402.hex" />
     <WaterSamplerConfiguration Type="0" Port="1" NumberOfWaterBottles="12" FiringSequence="0" EnableRemoteFiring="0" BeepUsesInternalSpeakers="0" GO1016ArmOffset="0" >
       <PositionsForTableDrivenFiring >
         <TableEntry BottleNumber="0" Position="1" />
